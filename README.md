@@ -1,0 +1,2 @@
+# Best-Business-Analytics-Certification-Online-Course
+Fhyzics conducted online certification course for business analytics.  This is an all-out program that enables participants to familiarise in Microsoft Excel's data handling and managing features. The 12-hour online faculty led live online training aims at exploiting, analysing and interpreting business data as a vital artifice. Note: The sessions are Live, Faculty-Led and taught by industrial experts having real-time work experience of having handled big data.
